@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Spring2868/vk-motivation-bot
    cd vk-motivation-bot
    ```
 
